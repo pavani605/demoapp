@@ -145,3 +145,7 @@ footer a {
     transform: rotate(360deg);
   }
 }
+
+.dummy{
+  font-variant: normal;
+}
